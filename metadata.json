@@ -1,0 +1,6 @@
+{
+  "name": "Click Counter",
+  "description": "A simple and beautifully designed click counter with a prominent red button.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
